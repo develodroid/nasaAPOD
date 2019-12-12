@@ -1,5 +1,7 @@
 # Nasa Astronomy picture of the day
 
+[![Codemagic build status](https://api.codemagic.io/apps/5df21fb3c3cc4fc39f50206a/5df21fb3c3cc4fc39f502069/status_badge.svg)](https://codemagic.io/apps/5df21fb3c3cc4fc39f50206a/5df21fb3c3cc4fc39f502069/latest_build)
+
 Nasa APOD api consumer Flutter application
 
 ## Screenshot
