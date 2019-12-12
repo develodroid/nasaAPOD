@@ -10,5 +10,5 @@ Nasa APOD api consumer Flutter application
 
 ## Credits
 
-Icons designed by [Freepik]("https://www.flaticon.es/autores/freepik") from [Flaticon](https://www.flaticon.es/)"
+Icons designed by [Freepik]("https://www.flaticon.es/autores/freepik") from [Flaticon]("https://www.flaticon.es/")
 
